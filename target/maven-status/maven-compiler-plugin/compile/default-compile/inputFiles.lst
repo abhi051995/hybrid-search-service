@@ -1,0 +1,13 @@
+/Users/abchoudhary/IdeaProjects/hybrid-search-service/src/main/java/com/hybrid/search/HybridSearchServiceApplication.java
+/Users/abchoudhary/IdeaProjects/hybrid-search-service/src/main/java/com/hybrid/search/config/DataInitializationConfig.java
+/Users/abchoudhary/IdeaProjects/hybrid-search-service/src/main/java/com/hybrid/search/controller/DocumentController.java
+/Users/abchoudhary/IdeaProjects/hybrid-search-service/src/main/java/com/hybrid/search/controller/SearchController.java
+/Users/abchoudhary/IdeaProjects/hybrid-search-service/src/main/java/com/hybrid/search/dto/SearchRequest.java
+/Users/abchoudhary/IdeaProjects/hybrid-search-service/src/main/java/com/hybrid/search/dto/SearchResponse.java
+/Users/abchoudhary/IdeaProjects/hybrid-search-service/src/main/java/com/hybrid/search/dto/SearchResult.java
+/Users/abchoudhary/IdeaProjects/hybrid-search-service/src/main/java/com/hybrid/search/model/Document.java
+/Users/abchoudhary/IdeaProjects/hybrid-search-service/src/main/java/com/hybrid/search/service/hybrid/HybridSearchService.java
+/Users/abchoudhary/IdeaProjects/hybrid-search-service/src/main/java/com/hybrid/search/service/lexical/SolrSearchService.java
+/Users/abchoudhary/IdeaProjects/hybrid-search-service/src/main/java/com/hybrid/search/service/query/QueryRewritingService.java
+/Users/abchoudhary/IdeaProjects/hybrid-search-service/src/main/java/com/hybrid/search/service/semantic/SemanticSearchService.java
+/Users/abchoudhary/IdeaProjects/hybrid-search-service/src/main/java/com/hybrid/search/service/semantic/SimpleInMemoryVectorStore.java

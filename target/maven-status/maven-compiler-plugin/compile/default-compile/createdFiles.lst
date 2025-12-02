@@ -1,0 +1,16 @@
+com/hybrid/search/service/semantic/SimpleInMemoryVectorStore.class
+com/hybrid/search/dto/SearchRequest.class
+com/hybrid/search/service/query/QueryRewritingService.class
+com/hybrid/search/service/lexical/SolrSearchService.class
+com/hybrid/search/controller/SearchController.class
+com/hybrid/search/model/Document.class
+com/hybrid/search/service/hybrid/HybridSearchService$HybridSearchResult.class
+com/hybrid/search/dto/SearchResult.class
+com/hybrid/search/HybridSearchServiceApplication.class
+com/hybrid/search/service/semantic/SimpleInMemoryVectorStore$ScoredDocument.class
+com/hybrid/search/controller/DocumentController.class
+com/hybrid/search/service/semantic/SemanticSearchService.class
+com/hybrid/search/config/DataInitializationConfig.class
+com/hybrid/search/service/semantic/SimpleInMemoryVectorStore$StoredDocument.class
+com/hybrid/search/dto/SearchResponse.class
+com/hybrid/search/service/hybrid/HybridSearchService.class
